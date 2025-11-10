@@ -1,3 +1,3 @@
 # Counter
-sui client build
+sui client build and then 
 sui client publish
